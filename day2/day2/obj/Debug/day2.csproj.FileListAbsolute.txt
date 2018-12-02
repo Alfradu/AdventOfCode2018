@@ -1,0 +1,7 @@
+X:\Sysvet\adventOfCode2018\day2\day2\obj\Debug\day2.csprojAssemblyReference.cache
+X:\Sysvet\adventOfCode2018\day2\day2\obj\Debug\day2.csproj.CoreCompileInputs.cache
+X:\Sysvet\adventOfCode2018\day2\day2\bin\Debug\day2.exe.config
+X:\Sysvet\adventOfCode2018\day2\day2\bin\Debug\day2.exe
+X:\Sysvet\adventOfCode2018\day2\day2\bin\Debug\day2.pdb
+X:\Sysvet\adventOfCode2018\day2\day2\obj\Debug\day2.exe
+X:\Sysvet\adventOfCode2018\day2\day2\obj\Debug\day2.pdb
