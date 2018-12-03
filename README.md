@@ -1,6 +1,6 @@
 # AdventOfCode2018
 
-My C# attempts at solving the AoC2017 puzzles. 
+My C# attempts at solving the AoC2018 puzzles. 
 
 * [Day 1: Chronal Calibration](day1/day1/Program.cs)
 * [Day 2: Inventory Management System](day2/day2/Program.cs)
