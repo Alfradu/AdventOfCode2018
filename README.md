@@ -8,6 +8,7 @@ My C# attempts at solving the AdventureOfCode2018 puzzles.
 * [Day 4: Repose Record](day4/day4/Program.cs)
 * [Day 5: Alchemical Reduction](day5/day5/Program.cs)
 * [Day 6: Chronal Coordinates](day6/day6/Program.cs)
+* [Day 7: The Sum of Its Parts](day7/day7/Program.cs)
 
 
            _/^\_      
